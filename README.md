@@ -92,7 +92,7 @@ If you have set a MySQL password, replace the empty string with your password.
 Open your browser and navigate to:
 
 ```
-http://localhost/academic/
+http://localhost/academic/index.php
 ```
 
 You should now see the public-facing Academic Calendar.
