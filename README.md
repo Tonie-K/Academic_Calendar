@@ -18,7 +18,7 @@ A web-based Academic Calendar Management System built with PHP and MySQL. Studen
 ## Video Demo
 
 Watch the full installation walkthrough and project demo here:
-YOUR_YOUTUBE_LINK_HERE
+https://youtu.be/I_ug9Tv62f0
 
 ---
 
